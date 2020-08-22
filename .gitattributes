@@ -1,3 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 *.ipynb !text !filter !merge !diff
 *.md !text !filter !merge !diff
 *.npy !text !filter !merge !diff
