@@ -10,3 +10,5 @@ Here is [**Coursework #1**](Coursework_1) on the topic "Preparing an analytical 
 producers of educational programs effectively
 build a strategy for updating and improving training
 courses"
+
+And finally, here are the data analytics [**exam tests**](Exams)
